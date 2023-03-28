@@ -1,5 +1,5 @@
 import propTypes from 'prop-types';
-import { Layout } from "Components/Profile/ProfileStyled";
+import { Layout } from "Accesorries/Profile/ProfileStyled";
 import { FriendListItem } from '../FriendsListItem/FriendsListItem';
 
 

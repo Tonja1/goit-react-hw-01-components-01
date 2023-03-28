@@ -1,4 +1,4 @@
-import { Layout } from "Components/Profile/ProfileStyled";
+import { Layout } from "Accesorries/Profile/ProfileStyled";
 import propTypes from 'prop-types';
 import { getRandomHexColor, Item, List, Title } from './StatisticsStyled';
 
